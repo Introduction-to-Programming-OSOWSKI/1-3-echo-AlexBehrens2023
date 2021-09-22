@@ -1,6 +1,6 @@
 #WRITE YOUR CODE IN THIS FILE
-def echo(Hi):
+def echo(S, N):
     #hello
-    return ("hello" * 5 )
+    return S * N
 
-print(echo("hello"))
+print(echo("Squirrel", 6))
