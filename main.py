@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def echo():
+def echo(Hi):
     return ("hallo" * 5)
 
-print(echo())
+print(echo("hi"))
